@@ -1,2 +1,4 @@
 # hello-world
-Criando repositório para treinamento de GitHub
+Criando repositório para nosso treinamento de GitHub
+# Pedro Costa
+Estudando GitHub.
