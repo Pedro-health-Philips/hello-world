@@ -1,4 +1,4 @@
 # hello-world
-Criando repositório para nosso treinamento de GitHub
-# Pedro Costa
-Estudando GitHub.
+Criando repositório para treinamento de GitHub
+# João 
+1234
